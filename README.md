@@ -1,4 +1,4 @@
-# Harken Scythe 2
-Reap what you sow.
+##Welcome to Harken Scythe 2
+[Original mod](http://bit.ly/18EyAZo)
 
-Based on the original mod by Jade_Knightblazer: http://bit.ly/18EyAZo
+[Setting up your workspace](http://www.youtube.com/playlist?list=PLQPiZYWovwmnZlgvbHCbz6TefIgeEiVcj)
