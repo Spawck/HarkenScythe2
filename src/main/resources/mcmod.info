@@ -1,0 +1,16 @@
+[
+{
+  "modid": "HS2",
+  "name": "Harken Scythe 2",
+  "description": "Reap what you sow.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["spawck", "Jade_Knightblazer"],
+  "credits": "Jade_Knightblazer, for the original Harken Scythe.",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

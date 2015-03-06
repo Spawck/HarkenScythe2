@@ -77,7 +77,7 @@ public class HarkenScythe2
 	{
 		//command registry
 		// TODO: ItemAmulet needs help, particle effect util, sounds, ItemKeeper needs to have its unlocalizedNames changed, helper methods for inventory checks, 
-		// rename unlocalized names in TierAbilities.class, fix entity textures, fix block/item textures/names, 
+		// rename unlocalized names in TierAbilities.class, fix entity textures, fix block/item textures/names, item meta
 	}
 	
 	@EventHandler

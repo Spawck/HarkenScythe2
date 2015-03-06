@@ -306,7 +306,7 @@ public class ItemKeeper extends ItemHS
 
 	public void soulFeastingEffect(EntityPlayer player, int amount)
 	{
-		int soulweaveArmorBonus = ItemHSSoulweaveArmor.soulweaveArmorCheck(player);
+		int soulweaveArmorBonus = ItemSoulweaveArmor.soulweaveArmorCheck(player);
 		int soulRank = 0;
 		soulRank += soulweaveArmorBonus;
 		
@@ -356,7 +356,7 @@ public class ItemKeeper extends ItemHS
 
 	public void bloodDrinkingEffect(EntityPlayer player, int amount)
 	{
-		int bloodweaveArmorBonus = ItemHSBloodweaveArmor.bloodweaveArmorCheck(player);
+		int bloodweaveArmorBonus = ItemBloodweaveArmor.bloodweaveArmorCheck(player);
 		int bloodRank = 0;
 		bloodRank += bloodweaveArmorBonus;
 		
